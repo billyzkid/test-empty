@@ -1,0 +1,12 @@
+{
+    "name": "gh-scripts-test-empty",
+    "version": "1.0.0",
+    "devDependencies": {
+        "gh-scripts": "^1.0.0-alpha.6"
+    },
+    "scripts": {
+        "authors": "gh-scripts authors",
+        "authors-help": "gh-scripts authors --help",
+        "authors-version": "gh-scripts authors --version"
+    }
+}
